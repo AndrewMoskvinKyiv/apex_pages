@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapex_pages"]=self["webpackChunkapex_pages"]||[]).push([[443],{4743:function(s,e,n){n.r(e),n.d(e,{default:function(){return c}});var t=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,e=s._self._c;return e("div",{staticClass:"about"},[e("h1",[s._v("This is some changes ")])])}],a=n(1001),l={},r=(0,a.Z)(l,t,u,!1,null,null,null),c=r.exports}}]);
+//# sourceMappingURL=about.5016ce56.js.map
